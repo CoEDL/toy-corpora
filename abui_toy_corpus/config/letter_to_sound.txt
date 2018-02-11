@@ -22,15 +22,15 @@ q q
 v w
 
 # Vowels
-ii i:
 i I
-uu u:
 u u
-ee e:
+ii i:
+uu u:
 e E
-oo o:
 o O
-aa a:
+ee e:
+oo o:
 a a
+aa a:
 
 # Wikipedia says tone is marked by diacritics on the vowels, but we can't see that in this corpus
