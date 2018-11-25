@@ -32,5 +32,6 @@ ee e:
 oo o:
 a a
 aa a:
-
-# Wikipedia says tone is marked by diacritics on the vowels, but we can't see that in this corpus
+á A:
+é E:
+ó O:
