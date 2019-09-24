@@ -1,5 +1,3 @@
-A collection of data sets that are ready to use when setting up data science tools.
-
-These might be useful when working with tools like the [CoEDL Kaldi Pipeline](https://github.com/CoEDL/kaldi-helpers), or [Persephone](https://github.com/oadams/persephone).
+A collection of recordings that are ready to be used for trying out language tools like [Elpis](https://github.com/CoEDL/elpis) or [Persephone](https://github.com/oadams/persephone).
 
 Please check the copyright notices for each corpus.
